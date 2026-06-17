@@ -6,7 +6,7 @@ import { Providers } from "~/components/providers";
 import { Toaster } from "~/components/ui/sonner";
 
 export const metadata: Metadata = {
-  title: "Music Generator",
+  title: "Music Gen",
   description: "Music Generator",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
